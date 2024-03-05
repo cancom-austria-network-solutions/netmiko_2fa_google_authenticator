@@ -260,5 +260,5 @@ class LinuxSSH2FAGoogle(LinuxSSH):
 import netmiko
 from netmiko.ssh_dispatcher import CLASS_MAPPER
 
-netmiko.platforms.append("linux_2fa_google_authenticator")
-CLASS_MAPPER["linux_2fa_google_authenticator"] = LinuxSSH2FAGoogle
+netmiko.platforms.append("2fa_google_authenticator")
+CLASS_MAPPER["2fa_google_authenticator"] = LinuxSSH2FAGoogle
