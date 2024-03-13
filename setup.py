@@ -29,7 +29,7 @@ setuptools.setup(
     name="netmiko_2fa_google_authenticator",
     version=version,
     author="Wilhelm Putz",
-    author_email="wp@aci.guru",
+    author_email="wilhelm.putz@cancom.com",
     description="Out of tree netmiko driver for 2FA with google-authenticator",
     long_description=long_description,
     long_description_content_type="text/x-rst",
