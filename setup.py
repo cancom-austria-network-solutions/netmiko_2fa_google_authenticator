@@ -33,7 +33,7 @@ setuptools.setup(
     description="Out of tree netmiko driver for 2FA with google-authenticator",
     long_description=long_description,
     long_description_content_type="text/x-rst",
-    url="https://github.com/jinjamator/netmiko_2fa_google_authenticator",
+    url="https://github.com/cancom-austria-network-solutions/netmiko_2fa_google_authenticator",
     packages=setuptools.find_packages(),
     include_package_data=True,
     package_data={"": ["*"]},
