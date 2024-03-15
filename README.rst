@@ -5,7 +5,7 @@ netmiko_2fa_google_authenticator is an out of tree netmiko driver for 2 factor a
 
 As security demands increase, many internet facing linux machines are secured by 2fa. As some of our customers provide linux machines as ssh jumphosts for automation, we built this plugin.
 
-It is compatible and has been extensively tested with `netmiko_multihop <https://github.com/cancom-austria-network-solutions/netmiko_multihop>`_.
+It is compatible and has been extensively tested with `netmiko_multihop <https://github.com/jinjamator/netmiko_multihop>`_.
 
 
 Installation
